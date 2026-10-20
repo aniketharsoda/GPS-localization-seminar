@@ -11,7 +11,7 @@
 ### 👤 Author & Academic Details
 * **Submitted:** July 2026
 * **Author:** Aniket Harsoda
-* **Course:** Master's in Autonomous Vehicle Engineering
+* **Course:** Bachelor's in Autonomous Vehicle Engineering
 * **Institution:** Technische Hochschule Ingolstadt (THI)
 * **Examiner:** Prof. Dr.-Ing. Thomas Schiele
 
